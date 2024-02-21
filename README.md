@@ -7,7 +7,7 @@ Um projeto feito na Flutter Expirience
 Este app foi criado durante o evento da Flutter Expirience, evento de flutter. Esse app é uma das três versões desenvolvida no Flutter Expirience. Onde tinha como objetivo criando a central de admnistradores do projeto clinicas.
 
 ## O que foi usado
-No projeto foi usado a arquitetura mvvm (Model view model), os pacotes flutter_getit para gerencia de depências, e o signals para gerência de estado. Logo abaixo vai ter uma lista com todos os pacotes usado neste projeto.
+No projeto foi usado a arquitetura mvvm (Model view model),com ênfase nos pacotes flutter_getit para gerencia de depências, e o signals para gerência de estado. Logo abaixo vai ter uma lista com todos os pacotes usado neste projeto.
 
 <div>
 <ul>
